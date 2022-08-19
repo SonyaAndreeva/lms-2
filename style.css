@@ -1,5 +1,30 @@
+.h1{
+	width: 1920px;
+	background: #f2d3d9;
+	color: #ff123d;
+	font-size:24px;
+	text-align: center;
+}
+.href{
+	color:#0000FF;
+	font-size:16px;
+	text-decoration: none;
+}
+.text:hover{
+	color:#FF1493;
+	font-size:16px;
+	text-decoration: none;
+}
+.href:hover{
+	color:#FF1493;
+	text-decoration: none;
+}
 .header{
-	color: #FF1493;
-	font-size:44px;
+	width: 960px;
+	background: #f2d3d9;
+	
+	text-align: center;
+	font-size:16px;
 	
 }
+
