@@ -1,17 +1,17 @@
 .h1{
-	width: 1920px;
+
 	background: #f2d3d9;
 	color: #ff123d;
 	font-size:24px;
 	text-align: center;
 }
 .href{
-	color:#0000FF;
+	color:#3602a6;
 	font-size:16px;
 	text-decoration: none;
 }
-.text:hover{
-	color:#FF1493;
+.text:{
+	color:#3602a6;
 	font-size:16px;
 	text-decoration: none;
 }
@@ -22,9 +22,43 @@
 .header{
 	width: 960px;
 	background: #f2d3d9;
-	
+	margin: auto;
+	margin-top: 250px;
 	text-align: center;
 	font-size:16px;
+	border: 1px solid #ff0000;
+	border-radius: 30px;
+	
+}
+.feedback{
+	color: #ff123d;
+	font-size:20px;
+	margin: 50px auto;
+	background: #f2d3d9;
+	padding-bottom: 40px;
+}
+.container{
+	width: 960px;
+	border: 1px solid #ff0000;
+	border-radius: 30px;
+	text-align: center;
+}
+.form__input{
+	margin:auto;
+	margin-bottom: 10px;
+	display: block;
+	width: 400px;
+	background: pink;
+	border: 1px solid;
+	font-size: 14px;
+	padding: 10px 4px;
+	
+}
+.form__button{
+	width: 400px;
+	background: red;
+	padding: 10px;
+	font-size: 14px;
 	
 }
 
